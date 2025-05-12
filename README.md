@@ -24,8 +24,8 @@
       <br>Git
     </td>  
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/C-icon.svg" alt="icon" width="65" height="65" />
-      <br>C
+        <img src="https://techstack-generator.vercel.app/CSS-icon.svg" alt="icon" width="65" height="65" />
+      <br>CSS
     </td>
  </tr>
 </table>
