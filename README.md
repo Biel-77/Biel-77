@@ -1,7 +1,7 @@
 
-<h1 align="center">Hi 👋</h1> 
+<h1 align="center">Olá👋, me chamo Luiz tenho 18 anos e atualmente estou cursando Sistemas de informação na FIPP-Unoeste(Universidade do Oeste Paulista), tenho um conhecimento básico sobre programação web e sou apaixonado por tecnologia, aqui é onde eu compartilho meus estudos e projetos pessoais. </h1> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Biel-77&label=Profile%20views&color=0e75b6&style=flat" alt="Biel-77" /> </p>
-<h3 align="center">information systems, from Brazil.</h3>
+<h3 align="center">from Brazil.</h3>
 <h2 align="center">Connect with me:</h2>
 <p align="center">
   <a href="https://instagram.com/bielxr__7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
