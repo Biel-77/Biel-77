@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá👋, me chamo Luiz tenho 18 anos e atualmente estou cursando Sistemas de informação e sou apaixonado por tecnologia, aqui é onde eu compartilho meus estudos e projetos pessoais. </h1> 
+<h1 align="center">Olá👋, me chamo Luiz tenho 18 anos, atualmente estou cursando Sistemas de informação e sou apaixonado por tecnologia, aqui é onde eu compartilho meus estudos e projetos pessoais. </h1> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Biel-77&label=Profile%20views&color=0e75b6&style=flat" alt="Biel-77" /> </p>
 <h3 align="center">from Brazil.</h3>
 <h2 align="center">Connect with me:</h2>
@@ -14,6 +14,10 @@
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/node-icon.svg" alt="icon" width="65" height="65" />
+      <br>Node
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
@@ -48,5 +52,6 @@
     </picture>
   </div>
 </div>
+
 
 
