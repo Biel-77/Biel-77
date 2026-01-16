@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá👋, me chamo Luiz tenho 18 anos, atualmente estou cursando Sistemas de informação e sou apaixonado por tecnologia, aqui é onde eu compartilho meus estudos e projetos pessoais. </h1> 
+<h1 align="center">Olá👋, me chamo Luiz, atualmente estou cursando Sistemas de informação e sou apaixonado por tecnologia, aqui é onde eu compartilho meus estudos e projetos pessoais. </h1> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Biel-77&label=Profile%20views&color=0e75b6&style=flat" alt="Biel-77" /> </p>
 <h3 align="center">from Brazil.</h3>
 <h2 align="center">Connect with me:</h2>
