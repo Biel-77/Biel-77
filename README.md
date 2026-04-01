@@ -11,10 +11,7 @@ Olá👋, me chamo Luiz, atualmente estou cursando Sistemas de informação e so
 ![](https://github-readme-stats.vercel.app/api?username=Biel-77&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Biel-77&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Biel-77&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Biel-77&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
+<img src="https://streak-stats.demolab.com?user=Biel-77&theme=dark&hide_border=true" alt="Biel-77's GitHub Stats" />
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
