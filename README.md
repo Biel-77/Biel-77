@@ -1,6 +1,6 @@
 # 😎About Me:
 Olá👋, me chamo Luiz, atualmente estou cursando Sistemas de informação e sou apaixonado por tecnologia, aqui é onde eu compartilho meus estudos e projetos pessoais.
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Biel-77&label=Profile%20views&color=0e75b6&style=flat" alt="Biel-77" /> </p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/luizgabrieloliveiraa1004) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:brcr873@gmail.com) 
