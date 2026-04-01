@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 😎About Me:
 Olá👋, me chamo Luiz, atualmente estou cursando Sistemas de informação e sou apaixonado por tecnologia, aqui é onde eu compartilho meus estudos e projetos pessoais.
 
 
