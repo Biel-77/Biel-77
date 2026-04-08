@@ -1,5 +1,5 @@
 # 😎About Me:
-Olá👋, me chamo Luiz tenho 18 anos, atualmente estou cursando Sistemas de informação na FIPP-UNOESTE e sou apaixonado por tecnologia, aqui é onde eu compartilho meus estudos e projetos pessoais.
+Olá👋, me chamo Luiz tenho 18 anos, atualmente estou cursando Sistemas de informação na FIPP-UNOESTE, sou apaixonado por tecnologia e aqui é onde eu compartilho meus estudos e projetos pessoais.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Biel-77&label=Profile%20views&color=0e75b6&style=flat" alt="Biel-77" /> </p>
 
 ## 🌐 Socials:
