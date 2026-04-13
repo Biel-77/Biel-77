@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luiz</h1>
-<h3 align="center">Software developer from Brazil</h3>
+<h3 align="left">😎About Me:</h3>
+<p>Fullstack Developer, currently studying Information Systems, I'm passionate about technology and this is where I share my studies and personal projects.</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Biel-77&label=Profile%20views&color=0e75b6&style=flat" alt="Biel-77" /> </p>
 
