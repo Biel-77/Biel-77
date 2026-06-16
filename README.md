@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luiz</h1>
-<h3 align="left">😎About Me:</h3>
+<h3 align="left"> About Me:</h3>
 <p>Fullstack Developer, currently studying Information Systems, I'm passionate about technology and this is where I share my studies and personal projects.</p>
 
 ## 🌐 Socials:
