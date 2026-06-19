@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luiz</h1>
 <h3 align="left"> About Me:</h3>
-<p>Fullstack Developer, currently studying Information Systems, I'm passionate about technology and this is where I share my studies and personal projects.</p>
+<p>Software Developer, currently studying Information Systems, I'm passionate about technology and this is where I share my studies and personal projects.</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/luizgabrieloliveiraa1004) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:brcr873@gmail.com) 
