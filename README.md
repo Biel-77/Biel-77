@@ -1,7 +1,4 @@
 <h3 align="center">
-  <a href="https://wakatime.com/@018d361c-db8c-49ff-b17e-4b367310d84d"><img src="https://wakatime.com/badge/user/018d361c-db8c-49ff-b17e-4b367310d84d.svg" alt="Total time coded since Jan 23 2025" /></a>
-  <img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24691%26project%3D%26in=0">
-
 
   Welcome to Luiz profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -53,7 +50,7 @@ int main() {
 
 
 ### 📩 Let's Talk:
-<a href="https://www.linkedin.com/in/luizgabrieloliveiraa1004" target="_blank"><img src="https://img.shields.io/badge/-Karim%20Abdallah-0077B5?style=for-the-badge&logo=Linkedin"/></a>
+<a href="https://www.linkedin.com/in/luizgabrieloliveiraa1004" target="_blank"><img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=Linkedin"/></a>
 <br>
 
 
