@@ -5,7 +5,6 @@
 </h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=500&height=45&lines=Software Developer using Java.;" alt="Typing SVG" /></a>
 </p>
 
 
@@ -18,7 +17,7 @@
 |💬 Ask me about my experience with **JavaScript**, **Java**, **Spring**, **React**.|
 |⚡ I can work on your project even if it was small or huge project.|
 
-> I am an Software Developer Using **JavaScript**, **React** & **Nodejs**, where I use my skills in **Java** & **SpringBoot** to BackEnd, develop, and maintain the backend and frontend of our applications. I am passionate about **learning new technologies** and frameworks.
+> I am an Software Developer Using **JavaScript**, **React** & **Nodejs**, where I use my skills in **Java** & **SpringBoot** to BackEnd, develop, and maintain the backend of our applications. I am passionate about **learning new technologies** and frameworks.
 
 
 <br>
@@ -50,7 +49,7 @@ int main() {
 
 
 ### 📩 Let's Talk:
-<a href="https://www.linkedin.com/in/luizgabrieloliveiraa1004" target="_blank"><img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=Linkedin"/></a>
+<a href="https://www.linkedin.com/in/luizgabrieloliveiraa1004" target="_blank"><img src="https://img.shields.io/badge/Luiz Gabriel -0077B5?style=for-the-badge&logo=Linkedin"/></a>
 <br>
 
 
