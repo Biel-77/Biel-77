@@ -49,7 +49,7 @@ int main() {
 
 
 ### 📩 Let's Talk:
-<a href="https://www.linkedin.com/in/luizgabrieloliveiraa1004" target="_blank"><img src="https://img.shields.io/badge/Luiz Gabriel -0077B5?style=for-the-badge&logo=Linkedin"/></a>
+<a href="https://www.linkedin.com/in/luizgabrieloliveiraa1004" target="_blank"><img src="https://img.shields.io/badge/Linkedin -0077B5?style=for-the-badge&logo=Linkedin"/></a>
 <br>
 
 
