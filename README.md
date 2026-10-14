@@ -15,9 +15,9 @@
 |🏢 I'm an **Software Developer**.|
 | :--- |
 |💬 Ask me about my experience with **JavaScript**, **Java**, **Spring**, **React**.|
-|⚡ I can work on your project even if it was small or huge project.|
+|⚡I enjoy building scalable REST APIs and clean, maintainable software.|
 
-> I am an Software Developer Using **JavaScript**, **React** & **Nodejs**, where I use my skills in **Java** & **SpringBoot** to BackEnd, develop, and maintain the backend of our applications. I am passionate about **learning new technologies** and frameworks.
+> I'm a Software Developer and Information Systems student passionate about backend development, software architecture, and learning new technologies. I focus on building reliable applications using Java, Spring Boot, Node.js, and Clean Architecture. I am passionate about **learning new technologies** and frameworks.
 
 
 <br>
